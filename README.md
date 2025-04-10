@@ -2,10 +2,6 @@
 
 Sou um **desenvolvedor backend** com experiência em **Java**, **Spring Boot**, **PostgreSQL**, **MySQL**, **Hibernate**. Sempre buscando aprender novas features e me profissionalizar mais!
 
-## 📊 Estatísticas GitHub
-
-![João Sehn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaosehn2406&show_icons=true&theme=radical)
-
 ## 🛠️ Tecnologias
 
 <p align="center">
@@ -18,6 +14,12 @@ Sou um **desenvolvedor backend** com experiência em **Java**, **Spring Boot**, 
 </p>
 
 <br>
+
+
+## 📊 Estatísticas GitHub
+
+![João Sehn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaosehn2406&show_icons=true&theme=radical)
+
 
 ## 🔗 Conecte-se comigo
 
