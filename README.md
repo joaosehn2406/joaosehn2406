@@ -1,25 +1,32 @@
 # 👋 Olá, sou João Pedro
 
-Sou um **desenvolvedor backend** com experiência em **Java**, **Spring Boot**, **PostgreSQL**, **MySQL**, **Hibernate**. Sempre buscando aprender novas features e me profissionalizar mais!
+##Sobre mim
+Sou um **desenvolvedor backend** com experiência em **Java**, **Spring Boot**, **PostgreSQL**, **MySQL**, e **Hibernate**. 
 
-## 🛠️ Tecnologias
+---
 
-<p align="center">
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img align="left" alt="Spring Boot" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"></a>
-  <a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></a>
-  <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></a>
-  <a href="https://hibernate.org/" target="_blank"><img align="left" alt="Hibernate" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg"></a>
-  <a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></a>
-</p>
+## Linguagens
 
-<br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+---
 
-## 📊 Estatísticas GitHub
+## Frameworks e Bibliotecas
 
-![João Sehn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaosehn2406&show_icons=true&theme=radical)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
+---
+
+## Banco de Dados
+
+![PostgreSQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## Estatísticas do GitHub
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaosehn2406&show_icons=true&theme=radical)
 
 ## 🔗 Conecte-se comigo
 
@@ -29,5 +36,6 @@ Sou um **desenvolvedor backend** com experiência em **Java**, **Spring Boot**, 
 
 - [GitHub](https://github.com/joaosehn2406)
 
----
+
+
 
