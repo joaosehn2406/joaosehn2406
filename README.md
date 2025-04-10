@@ -17,6 +17,8 @@ Sou um **desenvolvedor backend** com experiência em **Java**, **Spring Boot**, 
   <a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></a>
 </p>
 
+<br>
+
 ## 🔗 Conecte-se comigo
 
 <a target="_blank" href="https://www.linkedin.com/in/jo%C3%A3o-pedro-sehnem-dos-santos5b27bb2b3/">
