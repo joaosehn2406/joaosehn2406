@@ -27,7 +27,7 @@ Sou um desenvolvedor backend focado em aplicações API e tratamento de dados. E
 
 ## Estatísticas do GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiamoncini&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaosehn2406&show_icons=true&theme=radical)
 
 
 ## 🔗 Conecte-se comigo
