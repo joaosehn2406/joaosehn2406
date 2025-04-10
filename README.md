@@ -1,32 +1,34 @@
-# 👋 Olá, sou João Pedro
+# Olá! Sou o João Pedro
 
-##Sobre mim
-Sou um **desenvolvedor backend** com experiência em **Java**, **Spring Boot**, **PostgreSQL**, **MySQL**, e **Hibernate**. 
+## Sobre mim
+Sou um desenvolvedor backend focado em aplicações API e tratamento de dados. Estou sempre em busca de me profissionalizar e expandir meu conhecimentos, para no futuro, realizar uma aplicação full-stack! 
 
 ---
 
-## Linguagens
+## Linguagens e Tecnologias
+
+### Linguagens
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
----
 
-## Frameworks e Bibliotecas
+### Frameworks e Bibliotecas
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
----
 
-## Banco de Dados
+### Banco de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ---
 
 ## Estatísticas do GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaosehn2406&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiamoncini&show_icons=true&theme=dark)
+
 
 ## 🔗 Conecte-se comigo
 
@@ -35,7 +37,3 @@ Sou um **desenvolvedor backend** com experiência em **Java**, **Spring Boot**, 
 </a>
 
 - [GitHub](https://github.com/joaosehn2406)
-
-
-
-
