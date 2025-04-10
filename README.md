@@ -15,6 +15,8 @@ Sou um desenvolvedor backend focado em aplicações API e tratamento de dados. E
 ### Frameworks e Bibliotecas
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
 
 
 ### Banco de Dados
