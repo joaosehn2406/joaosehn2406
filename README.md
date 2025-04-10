@@ -1,3 +1,4 @@
+# 👋 Olá, sou João Pedro
 
 Sou um **desenvolvedor backend** com experiência em **Java**, **Spring Boot**, **PostgreSQL**, **MySQL**, **Hibernate**. Sempre buscando aprender novas features e me profissionalizar mais!
 
