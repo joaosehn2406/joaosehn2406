@@ -1,7 +1,7 @@
 # Olá! Sou o João Pedro
 
 ## Sobre mim
-Sou um desenvolvedor backend focado em aplicações API e tratamento de dados. Estou sempre em busca de me profissionalizar e expandir meu conhecimentos, para no futuro, realizar uma aplicação full-stack! 
+Sou um desenvolvedor Android focado em aplicações mobile e tratamento de dados. Estou sempre em busca de me profissionalizar e expandir meu conhecimentos, para no futuro, realizar uma aplicação full-stack! 
 
 ---
 
