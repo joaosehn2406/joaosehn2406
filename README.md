@@ -34,7 +34,7 @@ Sou um desenvolvedor Android focado em aplicações mobile e tratamento de dados
 
 ## 🔗 Conecte-se comigo
 
-<a target="_blank" href="www.linkedin.com/in/jpsehnem">
+<a target="_blank" href="https://www.linkedin.com/in/jpsehnem">
   <img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="30px"/>
 </a>
 
