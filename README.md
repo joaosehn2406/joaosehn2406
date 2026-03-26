@@ -1,40 +1,30 @@
-# Olá! Sou o João Pedro
+# João Pedro
 
-## Sobre mim
-Sou um desenvolvedor Android focado em aplicações mobile e tratamento de dados. Estou sempre em busca de me profissionalizar e expandir meu conhecimentos, para no futuro, realizar uma aplicação full-stack! 
+> Desenvolvedor Android · Em construção rumo ao full-stack
 
----
-
-## Linguagens e Tecnologias
-
-### Linguagens
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frameworks e Bibliotecas
-
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### Banco de Dados
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+Trabalho com aplicações mobile e tratamento de dados. Gosto de entender o problema antes de abrir o editor — e estou construindo, aos poucos, o caminho até o full-stack.
 
 ---
 
-## Estatísticas do GitHub
+## Stack
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaosehn2406&show_icons=true&theme=radical)
+**Linguagens**
+`Kotlin` `Java` `TypeScript` `C#`
 
-## 🔗 Conecte-se comigo
+**Mobile & Frontend**
+`Jetpack Compose` `Angular`
 
-<a target="_blank" href="https://www.linkedin.com/in/jpsehnem">
-  <img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="30px"/>
-</a>
+**Backend & Dados**
+`Spring` `Hibernate` `.NET` `PostgreSQL` `MySQL`
 
-- [GitHub](https://github.com/joaosehn2406)
+---
+
+## Números
+
+![Stats](https://github-readme-stats.vercel.app/api?username=joaosehn2406&show_icons=true&theme=radical&hide_border=true)
+
+---
+
+## Onde me achar
+
+[LinkedIn](https://www.linkedin.com/in/jpsehnem) · [GitHub](https://github.com/joaosehn2406)
